@@ -12,7 +12,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-
+<div>Меня зовут Андрей, я занимаюсь вёрсткой сайтов. живу и работаю в Кыргызстане, город Бишкек</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
