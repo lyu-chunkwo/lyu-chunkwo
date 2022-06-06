@@ -8,8 +8,7 @@
   
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-    <img src="" width="600" height="300"/>
-    <img src="https://giphy.com/embed/IpeYSEZshTefe" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+    <img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="600" height="300"/>
   </div>
 </div>
 
