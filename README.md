@@ -39,3 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lyu-chunkwo=your-github-lyu-chunkwo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
