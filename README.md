@@ -7,7 +7,7 @@
   </h1>
   
   <div align="center">
-    <img src="https://giphy.com/gifs/working-on-it-still-YnDwT3MXLCdY57EBmD" width="600" height="300"/>
+    <img src="https://giphy.com/gifs/working-on-it-still-YnDwT3MXLCdY57EBmD" width="500" height="500"/>
   </div>
 </div>
 
