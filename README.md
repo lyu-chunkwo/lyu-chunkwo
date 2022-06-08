@@ -20,7 +20,7 @@
   <li>Вёрсткой занимаюсь два года</li>
   <li>Принимаю заказы на вёрстку, а так-же на разработку, и посадку сайтов на Wordpress</li>
   <li>В работе использую HTML, CSS, SCSS, GULP, GIT и др.</li>
-  <li>- :mailbox: В работе использую HTML, CSS, SCSS, GULP, GIT и др.</li>
+  <li>- :mailbox: <a href="mailto:lyu.chun.kwo@gmail.com">lyu.chun.kwo@gmail.com</a></li>
   <li>Мои работы Вы можете посмотреть ниже, в репозиториях ⬇</li>
 </ul>
 
