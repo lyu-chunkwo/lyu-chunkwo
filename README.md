@@ -46,4 +46,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyu-chunkwo&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyu-chunkwo&layout=compact&theme=vision-friendly-dark)](https://github.com/lyu-chunkwo)
