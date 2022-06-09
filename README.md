@@ -7,6 +7,7 @@
   
   <div>
     <img src="https://lyu-chunkwo.github.io/alpha/dist/images/foreadme/coding.gif" alt="img" width="600" height="300"/>
+    <img src="https://lyu-chunkwo.github.io/foreadme/img/coding.gif" alt="img" width="600" height="300"/>
   </div>
 
 ---
