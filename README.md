@@ -6,7 +6,7 @@
   </h1>
   
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://lyu-chunkwo.github.io/alpha/dist/images/foreadme/coding.gif" alt="img" width="600" height="300"/>
   </div>
 </div>
 
@@ -47,5 +47,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyu-chunkwo&layout=compact&theme=vision-friendly-dark)](https://github.com/lyu-chunkwo)
-
-<img src="https://lyu-chunkwo.github.io/alpha/dist/images/foreadme/coding.gif" alt="img">
