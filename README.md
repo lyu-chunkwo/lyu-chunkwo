@@ -48,4 +48,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyu-chunkwo&layout=compact&theme=vision-friendly-dark)](https://github.com/lyu-chunkwo)
 
-<img src="https://lyu-chunkwo.github.io/alpha/dist/images/slider-hits/1.png" alt="img">
+<img src="https://lyu-chunkwo.github.io/alpha/dist/images/foreadme/coding.gif" alt="img">
