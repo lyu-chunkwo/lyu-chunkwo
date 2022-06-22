@@ -15,7 +15,7 @@
 <div>Меня зовут Андрей, я занимаюсь вёрсткой сайтов. Живу и работаю в Кыргызстане, город Бишкек</div>
 &nbsp;
 <ul>
-  <li>:calendar: Вёрсткой занимаюсь два года.</li>
+  <li>:calendar: Вёрсткой занимаюсь около двух лет.</li>
   <li>:computer: Принимаю заказы на вёрстку, а так-же на разработку, и посадку сайтов на Wordpress.</li>
   <li>:hammer_and_wrench: В работе использую HTML, CSS, SCSS, GULP, GIT и др.</li>
   <li>:email: Связаться со мной можно по почте <a href="mailto:inbox@webex.go.kg">inbox@webex.go.kg</a>.</li>
