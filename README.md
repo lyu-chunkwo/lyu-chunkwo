@@ -17,7 +17,7 @@
 <ul>
   <li>:calendar: Вёрсткой занимаюсь около двух лет.</li>
   <li>:computer: Принимаю заказы на вёрстку, а так-же на разработку, и посадку сайтов на Wordpress.</li>
-  <li>:hammer_and_wrench: В работе использую HTML, CSS, JavaScript, SCSS, GULP, GIT и др.</li>
+  <li>:hammer_and_wrench: В работе использую HTML, CSS, SCSS, JavaScript, GULP, GIT и др.</li>
   <li>:email: Связаться со мной можно по почте <a href="mailto:inbox@webex.go.kg">inbox@webex.go.kg</a>.</li>
   <li>:telephone_receiver: Или  <a href="https://wa.me/+996555915987">Whatsapp +996 555 91 59 87</a>, <a href="https://telegram.me/Andrew_Lyu">Telegram +996 778 91 59 87</a>.</li>
   <li>:arrow_down: Мои работы Вы можете посмотреть ниже, в репозиториях.</li>
